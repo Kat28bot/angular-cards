@@ -4,7 +4,7 @@ Project created with intention of using learnt knowledge of angular in creating 
 Project created entirely in angular using html, css and typescript.
 To get cards API: https://www.deckofcardsapi.com/ is used.
 ## User Stories:
-# User can draw a card from a pile 
+ User can draw a card from a pile 
 User can win a game User can lose a game 
 User can play again with new deck 
 User can shuffle their pile
